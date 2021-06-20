@@ -5,9 +5,16 @@ It is based on django and python. A user can login as a student or as an admin. 
 ![alt text](https://github.com/rodeketan/library_management_system/blob/main/Images/Screenshot%20(322).png)
 ## Login Page
 ![alt_text](https://github.com/rodeketan/library_management_system/blob/main/Images/Screenshot%20(323).png)
+***
 ![alt_text](https://github.com/rodeketan/library_management_system/blob/main/Images/Screenshot%20(324).png)
 ## Admin Home Page
 ![alt text](https://github.com/rodeketan/library_management_system/blob/main/Images/Screenshot%20(338).png)
+## Adding Books
+![alt text](https://github.com/rodeketan/library_management_system/blob/main/Images/Screenshot%20(328).png)
+## Issuing Books
+![alt text](https://github.com/rodeketan/library_management_system/blob/main/Images/Screenshot%20(330).png)
+## Creating a new admin account
+![alt text](https://github.com/rodeketan/library_management_system/blob/main/Images/Screenshot%20(339).png)
 
 
 
